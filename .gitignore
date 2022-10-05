@@ -1,1 +1,7 @@
-.project
+
+
+*.class
+
+.classpath
+
+.ClassA.java
